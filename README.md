@@ -8,7 +8,7 @@
   <h3>📚 신간 소개</h3>
   <p><b>Master of Context: How to Hijack Intellectual Sovereignty with NotebookLM</b></p>
   <a href="https://www.amazon.com/dp/B0GPVX3X9M" target="_blank">
-    <img src="master_of_context.png" alt="Master of Context" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="master_of_context_cover.jpg" alt="Master of Context" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
   <br><br>
 </div>
