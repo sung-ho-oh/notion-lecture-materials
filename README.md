@@ -1,4 +1,4 @@
-# 커플 컨설턴트를 위한 AI 강좌
+# NotebookLM 완전정복
 
 <div align="center">
   <br>
